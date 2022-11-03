@@ -5,7 +5,7 @@ enum Movement {
     Up,
     Down,
     Left,
-    Right
+    Right,
 }
 
 fn move_avatar(m: Movement) {
